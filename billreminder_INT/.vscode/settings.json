@@ -1,0 +1,17 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.referencedLibraries": [
+    "lib\\flatlaf-3.2.5.jar",
+    "lib\\flatlaf-demo-3.2.5.jar",
+    "lib\\flatlaf-intellij-themes-3.2.5.jar",
+    "lib\\postgresql-42.7.1.jar",
+    "lib\\datechooser.jar",
+    "c:\\Users\\pc\\Downloads\\sal (1)-20240606T050139Z-001\\sal (1)\\Salarium\\lib\\flatlaf-intellij-themes-3.2.5.jar",
+    "c:\\Users\\pc\\Downloads\\sal (1)-20240606T050139Z-001\\sal (1)\\Salarium\\lib\\flatlaf-demo-3.2.5.jar",
+    "c:\\Users\\pc\\Downloads\\sal (1)-20240606T050139Z-001\\sal (1)\\Salarium\\lib\\postgresql-42.7.1.jar",
+    "c:\\Users\\pc\\Downloads\\sal (1)-20240606T050139Z-001\\sal (1)\\Salarium\\lib\\datechooser.jar",
+    "c:\\Users\\pc\\Downloads\\sal (1)-20240606T050139Z-001\\sal (1)\\Salarium\\lib\\flatlaf-3.2.5.jar"
+  ]
+}

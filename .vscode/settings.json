@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": ["billreminder_INT"],
+  "java.project.referencedLibraries": [
+    "billreminder_INT\\lib\\flatlaf-3.2.5.jar",
+    "billreminder_INT\\lib\\flatlaf-demo-3.2.5.jar",
+    "billreminder_INT\\lib\\flatlaf-intellij-themes-3.2.5.jar",
+    "billreminder_INT\\lib\\postgresql-42.7.1.jar",
+    "billreminder_INT\\lib\\datechooser.jar"
+  ]
+}
